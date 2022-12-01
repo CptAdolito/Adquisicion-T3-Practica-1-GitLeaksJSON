@@ -1,0 +1,136 @@
+Palabras clave encontradas: ['secret'] en el commit: 48f79dd795fd47701f8f043d2c8d46e7b244a4c5
+Palabras clave encontradas: ['token'] en el commit: 8a9dca4583afbf7b7a42e975a336db4ef012a913
+Palabras clave encontradas: ['private', 'key', 'private', 'key'] en el commit: 894f61267682bd1f5352acdcd815dbdfe8e7657c
+Palabras clave encontradas: ['private', 'key', 'private', 'key'] en el commit: b5ccde8fa7e5c7b3e8367cea7fe8e02e7c2ad596
+Palabras clave encontradas: ['private', 'key'] en el commit: 07183b89b51cf6039c16ec02ea77c8caf666dbb4
+Palabras clave encontradas: ['Token'] en el commit: 7a70cd649933122c77bd8f935dc1376a32f8bfd5
+Palabras clave encontradas: ['Token'] en el commit: c605d348e13415b97cec0722b793c006827c32d1
+Palabras clave encontradas: ['Token'] en el commit: aa89b8a1a315ff5d04c4ad86d242aac217439a7e
+Palabras clave encontradas: ['Token'] en el commit: 6cfc2247849073fc2b02ae4bf006682a71944321
+Palabras clave encontradas: ['Token', 'Token'] en el commit: 519152219a1d85c11cc6d359563794ccfeb0031c
+Palabras clave encontradas: ['Token'] en el commit: c6051f0667061593d6cd9e68af986e84a1deb2fa
+Palabras clave encontradas: ['Token'] en el commit: aa2ab27126bfd650d235377e72ceca8240f71d2b
+Palabras clave encontradas: ['Token'] en el commit: 7f8eb51463ed0e2c6100f7a6bcc87a73bc062927
+Palabras clave encontradas: ['token'] en el commit: dde566d1e542fb5e69c31f85c00579dba389009b
+Palabras clave encontradas: ['token'] en el commit: 482560ef352ee21e3b8a6d034f128d8087bf91b1
+Palabras clave encontradas: ['cred'] en el commit: bbeaecccd3dee814b942adeb9ef0927f6c616882
+Palabras clave encontradas: ['key'] en el commit: 56660f1d324b4f97174d9031895a8d049a5f7062
+Palabras clave encontradas: ['key'] en el commit: a0c8765f573bea240ef6798550e7beac8b3aaf6e
+Palabras clave encontradas: ['key'] en el commit: eb3fa3d4e6ca5bffe99e58ac5f6df686f8924a09
+Palabras clave encontradas: ['Key'] en el commit: 1f5ffe6cf00cb1b2b07710d378d1d2e0c6d25513
+Palabras clave encontradas: ['PRIVATE', 'KEY'] en el commit: d9e3bc1b171cc172eacfe9db27bbdf23d8393c99
+Palabras clave encontradas: ['private'] en el commit: 00f6bcb7eb281aa93d21e16170de6f3132ec4356
+Palabras clave encontradas: ['key'] en el commit: 5f1cf48c4669cd51f424d59b54b72e372d569f72
+Palabras clave encontradas: ['key'] en el commit: 40edd716cfd7c39d5b59a7f44f16d7659fb3e57a
+Palabras clave encontradas: ['token'] en el commit: eb833df6ab62a1b2faf262e49e8420b3697ab6c9
+Palabras clave encontradas: ['key', 'key'] en el commit: a64d3d1b74545d112b9c72f6a3b5712000537bf8
+Palabras clave encontradas: ['key'] en el commit: 2678b8973a138beee5ae86980e427fff188034ca
+Palabras clave encontradas: ['Token'] en el commit: b9fb6dac6d674adee6cf1e895c310f6b1b662a25
+Palabras clave encontradas: ['key'] en el commit: 3277df534684b04bd8c11f4caf1926b85c2d7923
+Palabras clave encontradas: ['token'] en el commit: 646186bbe4c82e31505ae579506dc01743fbb45c
+Palabras clave encontradas: ['Token'] en el commit: 9549d4b79ff5898f2ee18e64be7c8b9abd21fa53
+Palabras clave encontradas: ['Token'] en el commit: 5da186b02ef80cdb9d578a47573dfe12d1fd38ec
+Palabras clave encontradas: ['key', 'key'] en el commit: 8d434e58e7367621d9b5ef01d5fe8e72eed1443c
+Palabras clave encontradas: ['key'] en el commit: ea502c576544cfb83a03a36a064e386d64740f2b
+Palabras clave encontradas: ['key'] en el commit: bf1a9f64af33db8bb9acb4f29e36f08429030ed8
+Palabras clave encontradas: ['key'] en el commit: 2e7e283af5f492d4b87f24dd9a57753c3b0951b6
+Palabras clave encontradas: ['key'] en el commit: a4d7c54e58cc387d966d1738fec064f07b627223
+Palabras clave encontradas: ['key'] en el commit: 84c69d2b96b635883d3ccd94df13593ce0507682
+Palabras clave encontradas: ['key', 'key'] en el commit: 1dd149d6d2e09574482f953f202129981b5f27d8
+Palabras clave encontradas: ['key'] en el commit: 5f94b5721276a0a95c12526a965006784a855b68
+Palabras clave encontradas: ['key'] en el commit: c07e8458f5f5a1a079e9a3d1870bdc228d06bdfe
+Palabras clave encontradas: ['Key'] en el commit: 36b62fdda98d4419dd92e57452aded873ed02b2d
+Palabras clave encontradas: ['Key'] en el commit: fc51f17f28fcb7b538a22eadf04532ccac1db35b
+Palabras clave encontradas: ['key'] en el commit: 6405dbadbe5e1e05e08a66f657b81b2894e1e7e8
+Palabras clave encontradas: ['key'] en el commit: 15cfde5be2d1dce578cf74938da27757e4031984
+Palabras clave encontradas: ['Token'] en el commit: 3a10d247d7c56ae82a2ab30a1a27b4c7bd351be6
+Palabras clave encontradas: ['private'] en el commit: 10466d8383512238cb969c26eacbb707af5a7a08
+Palabras clave encontradas: ['private'] en el commit: b56dabef1de64744cebab30239f4269504bf12a1
+Palabras clave encontradas: ['private'] en el commit: 9c87d677f47cae7761530187ff09044deafc37b0
+Palabras clave encontradas: ['token'] en el commit: d10e109508d1ef1990fec2a4c68833383ded972e
+Palabras clave encontradas: ['secret', 'Key'] en el commit: 417ed5505478cd79acd9912c119489030427df53
+Palabras clave encontradas: ['Key'] en el commit: 9ddd32a39100bac8bb1f7d8fe46d39ff0f2ad1c7
+Palabras clave encontradas: ['Token'] en el commit: 38cdcca7c49ee6b13fc77aa04c2bd9cf9fb8f458
+Palabras clave encontradas: ['key'] en el commit: f20a43f4e481ab3e76bc8c111c15eadf5934b4aa
+Palabras clave encontradas: ['Key'] en el commit: f9dec932e4523d53d63895527775fecc8b7d86b2
+Palabras clave encontradas: ['private'] en el commit: c4d28668d67944184b430ab6d20e6ed88b86eea8
+Palabras clave encontradas: ['token', 'token'] en el commit: ccc6bc8dbef2d13505e9bd4185f2eda4ce8752d5
+Palabras clave encontradas: ['Token'] en el commit: 78f67d24820a13e4f94595b49efa55414cf3c28f
+Palabras clave encontradas: ['Token'] en el commit: 7c9b5f7fd31c71d307d173f0a0b70ed4c343a996
+Palabras clave encontradas: ['Token'] en el commit: c2ea9cc13508943bca76293b0995286c64e2b1b9
+Palabras clave encontradas: ['token'] en el commit: d9fcfeda147f2e9c7c8039bcb9ca3095ac9f5fdd
+Palabras clave encontradas: ['Token'] en el commit: f86627b265e28e2cea27c7439fc7f609d2f16f0a
+Palabras clave encontradas: ['Token'] en el commit: d4a7fa66666083b6a3c157176bfc4ba46a270fc6
+Palabras clave encontradas: ['token'] en el commit: d154e9c8561a5940df8355d83f4c0d7c0dce7d87
+Palabras clave encontradas: ['token', 'token'] en el commit: d8f1e9fb9cdeb316d57b4c1145741a53dff0f81b
+Palabras clave encontradas: ['token'] en el commit: c30cafc0b72dc79c20391d8fe72a2389eb85cdaf
+Palabras clave encontradas: ['token'] en el commit: 429396d240093fe3b339b294174ac1c433bc4b19
+Palabras clave encontradas: ['token'] en el commit: 7f9eefa99fe1eb10e5d600dec40cde396e35912c
+Palabras clave encontradas: ['token'] en el commit: 6d9df0a40ab6d2d6a886ac937a76362ac658ad5b
+Palabras clave encontradas: ['Token'] en el commit: a15e93e1a1d63d6e906dadc50bf630416b7b9397
+Palabras clave encontradas: ['token'] en el commit: 1572a256a90858c95a25861fcf229ca386e12893
+Palabras clave encontradas: ['token'] en el commit: 8569868815120540e10cfe8135649f2ff9f1560b
+Palabras clave encontradas: ['token', 'token'] en el commit: ee7d1673b05a26629a6d3ce16bbda2bb0adf55b5
+Palabras clave encontradas: ['token'] en el commit: 0a48d33a8fc96681f46845c367819ae140a54483
+Palabras clave encontradas: ['token', 'token'] en el commit: cde5a4ff04672a0978a7ed9217001ba675045915
+Palabras clave encontradas: ['token'] en el commit: b2790b9994f82c8a73416a70b85aa43d1252133a
+Palabras clave encontradas: ['token'] en el commit: 7a287d77dcbdfd161ca329d5b10e24103b370693
+Palabras clave encontradas: ['token'] en el commit: 0454daa04a0fbef73f450c17c4bf9c1fa3803a0c
+Palabras clave encontradas: ['key', 'key'] en el commit: 48880c7daf5a3dc962b040602d082e53ee808a33
+Palabras clave encontradas: ['Key'] en el commit: 8a282aed3e27acf270db4ad34f92c3d0fd8ab3ea
+Palabras clave encontradas: ['key'] en el commit: 799de80597a49eda41a15dd055041826e6fbd1f6
+Palabras clave encontradas: ['key'] en el commit: 8abaea7e64e32d13ae64586738063ecc5ca72539
+Palabras clave encontradas: ['key'] en el commit: b5b7bc0ac8037432785ade3710f4771a169e246f
+Palabras clave encontradas: ['key'] en el commit: 09ee82d919dd1c26b839ef6b3fe30e30b746eb6a
+Palabras clave encontradas: ['key'] en el commit: d39e3d19ffdffa8e734806884b32a7903a3e2f8f
+Palabras clave encontradas: ['key'] en el commit: 0e4f4a9ff30c68aa68a8b6dae27c43229692615e
+Palabras clave encontradas: ['token'] en el commit: f99e57ce335ab3237d8524011bed41138105b754
+Palabras clave encontradas: ['token'] en el commit: e1f99437e9ecb80c1e75a6c45ffe0c9975fbbcfc
+Palabras clave encontradas: ['token'] en el commit: 5c56ad03f40ac19041a7fd7bf8ae7f66be03f9e2
+Palabras clave encontradas: ['token'] en el commit: 9f6738b06ee88b93d876d65d367913e49c2b8203
+Palabras clave encontradas: ['Token'] en el commit: 27b11513256dcbf8215f94c208ef2f5b93b5185f
+Palabras clave encontradas: ['token'] en el commit: 0c80069ee6123b63faf8449afecf8fedf9d3a2ff
+Palabras clave encontradas: ['key'] en el commit: 75af7d6040be76342c2c30da05ae8a0bfdd39232
+Palabras clave encontradas: ['token'] en el commit: e7755be2b0df2547968321cf23cad372f87dc627
+Palabras clave encontradas: ['token'] en el commit: fba409a4abeceeff1b7b7e3376a3c57ab427af16
+Palabras clave encontradas: ['Token'] en el commit: 4c38397fdec834b6d878178a4eeddddc5ff51106
+Palabras clave encontradas: ['Token', 'Token'] en el commit: 3e2c4c9a99fa20fc26aba8ce20f02a7531a9e2e1
+Palabras clave encontradas: ['private', 'key'] en el commit: b155428b05348c33864699ad326efbb3cabf67a7
+Palabras clave encontradas: ['Token'] en el commit: 1bb787991183e1774787e12d7abd53e231cba0ab
+Palabras clave encontradas: ['token'] en el commit: 58a0a1d51fad28204712f59a43c79d7857646a7a
+Palabras clave encontradas: ['Token'] en el commit: 22b8d7e7ec8026ee619b93d2ab7b468e6cb69955
+Palabras clave encontradas: ['token'] en el commit: 1683145290a10008ca566b4ab3b827bff2ae37af
+Palabras clave encontradas: ['Token'] en el commit: 6c7c4936b2ec3d82e3e7ce202942e0b9d4e3ece8
+Palabras clave encontradas: ['private', 'key'] en el commit: 626ce6a7f2030382671f2a805a9fede37924c9a9
+Palabras clave encontradas: ['token'] en el commit: 261c74aa38fc5777d2a5fd5c8ab8449f8da1013a
+Palabras clave encontradas: ['token'] en el commit: fe7a3e16f6b642a6ac74a994600dd2a8a9d39773
+Palabras clave encontradas: ['token', 'token'] en el commit: ad2de00be3687ab338e0d287737c8cea752f1488
+Palabras clave encontradas: ['Token'] en el commit: 35a1f9008aee3e35d450f7ed484e4d1fec7755e1
+Palabras clave encontradas: ['Token'] en el commit: 0b5918dba6a245d000ed365670a88e3738693701
+Palabras clave encontradas: ['token', 'token'] en el commit: 99b73a340eedd0b83e900ff407be8bbdd3b8af03
+Palabras clave encontradas: ['Token'] en el commit: cbc4f50845471a7d7e4a21aedbbe01369ef1d126
+Palabras clave encontradas: ['Token'] en el commit: 0427c9da8d1d17ccd5686a4bfedff82e897a4022
+Palabras clave encontradas: ['token'] en el commit: 75ef414327fb4b394c175dfd689f86a52de1ce28
+Palabras clave encontradas: ['key'] en el commit: 40aaa7500986bfee4dcb60fc9df701ca92128daf
+Palabras clave encontradas: ['Token'] en el commit: ec5727f2f99a4cb7444a9828911816b19907fcba
+Palabras clave encontradas: ['key'] en el commit: 4d16d1cd6ae1edf6fdd0b3c62f273ee0fcaaa8e6
+Palabras clave encontradas: ['key'] en el commit: 390f2e40cdc8dacd321f0c25a9f4d70032af7a85
+Palabras clave encontradas: ['Token'] en el commit: e81f6156a327b4da86ee2874ba85a5bf135f390b
+Palabras clave encontradas: ['Token'] en el commit: 272e11dba0e925d7215a3d7b0af8b7bbdf1b9e84
+Palabras clave encontradas: ['Token'] en el commit: 7696fb995fc87172283637183d812b968276bdec
+Palabras clave encontradas: ['token'] en el commit: a1b74ff9d8c2bc45dd899fed6f9a2e54391770f3
+Palabras clave encontradas: ['Token'] en el commit: c3f498ac6f63c19bbedf55d0cedb9acb3859c4fc
+Palabras clave encontradas: ['token', 'Token'] en el commit: 86a587eaa71436f278787d6a4cd642b1a7a08a7d
+Palabras clave encontradas: ['token'] en el commit: 1674aa7a5c5f7dd9bbcbfa883c96d8094a807345
+Palabras clave encontradas: ['Token'] en el commit: c413f0a15cf954f64d49302dadbed70e3dedeb95
+Palabras clave encontradas: ['Token'] en el commit: 15828508ad5a21585d3beb97e0c2e2661acee2d3
+Palabras clave encontradas: ['private', 'key'] en el commit: 0942ff4368ccdc8956de1144b98f61b7ef914460
+Palabras clave encontradas: ['Token'] en el commit: 8c8bcca1c99f5cf014f125a5b69ab0322ac8e526
+Palabras clave encontradas: ['Token'] en el commit: 3f5acbe3457626a164d71a5fcf2db1254bb93084
+Palabras clave encontradas: ['token'] en el commit: d1135337af1ae6d9d10ec74ecb56e4d8d75a6998
+Palabras clave encontradas: ['token'] en el commit: f3b69a4add4abd835b4da12b127e1cb1fd8f039e
+Palabras clave encontradas: ['Token'] en el commit: 83962bc8e0aa2571e3530b2855d830951cce41cd
+Palabras clave encontradas: ['key'] en el commit: 51ac240bbeb9fe6fdb45114b1500c657000d21d2
+Palabras clave encontradas: ['Key'] en el commit: 1d47c09f47881435e24f1a6daccb8d90fb5a0c3b
+Palabras clave encontradas: ['Token'] en el commit: d76663ed0af1f7a66c859c9b92dea6170ea2a584
+Palabras clave encontradas: ['Token'] en el commit: 1d4b63c844e2b7297f4da60685189a01086b43c7
